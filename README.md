@@ -1,4 +1,12 @@
-<center>
-            <h1>Joshua Famous</h1>
-            <h3>I am a full stack software developer</span> who has both led and worked on Agile development teams. I am pursuing my bachelor's in Computer Science at the Pennsylvania State University.</h3>
-          </center>
+# About Me
+
+I am a full stack software developer who has both led and worked on Agile development teams. I am pursuing my bachelor's in Computer Science at the Pennsylvania State University.
+
+### What I'm Working On
+
+[Natural Language Processing](https://github.com/NittanyAiAlliance/Admissions-Smart-OCR) for the Nittany AI Alliance
+
+A [daily rundown tool](https://github.com/JFamo/PsuToday) interacting with API's from Penn State, OpenWeatherAPI, and Canvas
+
+A [generative adversarial network](https://github.com/JFamo/HackPSU) and markov model engine for HackPSU 2021
+
