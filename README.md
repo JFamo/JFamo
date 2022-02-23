@@ -8,6 +8,8 @@ I am a full stack software developer who has both led and worked on Agile develo
 
 A [daily rundown tool](https://github.com/JFamo/PsuToday) interacting with API's from Penn State, OpenWeatherAPI, and Canvas
 
+A lightweight scoreboard, bracket, and draft interface for small-scale competitions
+
 Updgrading my [personal website](https://github.com/JFamo/psu-personal-site) with HTML/JS Canvas features
 
 A [generative adversarial network](https://github.com/JFamo/HackPSU) and markov model engine for HackPSU 2021
