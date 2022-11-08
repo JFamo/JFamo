@@ -13,3 +13,4 @@ I am a full stack software developer who has both led and worked on Agile develo
 
 * Over the past year, I worked with a team to develop a [simulation](https://youtu.be/0fcY2BvbY5o) of airport queueing delay to experiment with policy changes for data sharing and demand forecasting in C#, which placed 2nd in the [Airport Cooperative Research Program Design Challenge](https://vsgc.odu.edu/acrpdesigncompetition/auto-draft/)
 * I just finished drafting a [daily rundown tool](https://github.com/JFamo/PsuToday) interacting with APIs from Penn State, OpenWeatherAPI, and Canvas
+* Check out my genetic algorithm that plays Tetris [here](https://jfamo.github.io/javascript-tetris/)
