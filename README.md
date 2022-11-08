@@ -1,6 +1,6 @@
 # About Me
 
-I am a full stack software developer who has both led and worked on Agile development teams. I am pursuing my bachelor's in Computer Science at the Pennsylvania State University.
+I am a full stack software developer who has both led and worked on Agile development teams. I am pursuing my master's in Computer Science at the Pennsylvania State University.
 
 ### What I'm Working On
 
