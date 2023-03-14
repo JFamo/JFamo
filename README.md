@@ -1,13 +1,13 @@
 # About Me
 
-I am a full stack software developer who has both led and worked on Agile development teams. I am pursuing my master's in Computer Science at the Pennsylvania State University.
+I am a full stack software developer who has both led and worked on Agile development teams. I am pursuing my Master's in Computer Science at the Pennsylvania State University.
 
 ### What I'm Working On
 
 * Natural Language Processing and Optical Character Recognition of high school student transcripts for the Nittany AI Alliance
-* Developing a bootloader and kernel in C & Assembly for an advanced Operating Systems course
-* Building a robust queueing simulator in C++ for a Performance Evaluation course
-* Completing the [SEED Labs](https://seedsecuritylabs.org/labs.html) for a Computing Security course
+* Developing a bootloader and kernel in C & Assembly for a Special Topics - Operating Systems course
+* Training a Transformer to predict branch coverage given some input seed for fuzzing
+* Implementing a cross-platform object detection suite using YOLO models for Augmentative and Alternative Communication uses
 
 ### Some Cool Stuff
 
