@@ -8,6 +8,7 @@ I am a full stack software developer who has both led and worked on Agile develo
 * Developing a bootloader and kernel in C & Assembly for a Special Topics - Operating Systems course
 * Training a Transformer to predict branch coverage given some input seed for fuzzing
 * Implementing a cross-platform object detection suite using YOLO models for Augmentative and Alternative Communication uses
+* Optimizing machine learning model architectures for abnormal behavior detection in public areas
 * An indie hex-based real-time strategy game in Unity
 
 ### Some Cool Stuff
